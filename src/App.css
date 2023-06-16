@@ -4,12 +4,10 @@
   box-sizing: border-box;
 }
 
-.body {
-  /*background-image: url("./Imagenes/bullscourt_15161.webp");
-  background-size: 80%;
-  background-repeat: no-repeat;*/
-  height: 100vh;
-  color: white;
+body {
+
+  
+  color: #4b7b82;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-size:  15px;
   display: flex;
